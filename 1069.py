@@ -14,4 +14,4 @@ for _ in range(n):
                 diamantes += 1
                 abertos -= 1
 
-    print(diamantes)
+    print(diamantes)        
